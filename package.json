@@ -1,0 +1,24 @@
+{
+  "name": "screen_recorder",
+  "version": "1.0.0",
+  "description": "Records screens. ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karunakukreja/screen_recorder.git"
+  },
+  "author": "karuna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karunakukreja/screen_recorder/issues"
+  },
+  "homepage": "https://github.com/karunakukreja/screen_recorder#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^5.0.5"
+  }
+}
